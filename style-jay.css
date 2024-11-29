@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(201, 185, 175);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0l9MxczGCQ4-nMMUzVbSfKGU7TIZ31qTs2g&s);
+    background-size: auto;
+}
+
+img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 65%;
+    height: 100vh;
+}
+
+h1{
+    color: black;
+    position: absolute;
+    top: 0%;
+    right: 5%;
+    font-family:Arial Narrow Bold;
+}
+
+.jay{
+    text-align: right;
+    position: absolute;
+    top: 10%;
+    right: 1%;
+}

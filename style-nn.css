@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(240, 230, 230);
+    background-image: url(https://w0.peakpx.com/wallpaper/294/237/HD-wallpaper-aestheticcloudssara-aestethic-aesthetic-blanco-clouds-fondo-de-pantalla-ios14-iphone-thumbnail.jpg);
+    background-size: auto;
+}
+
+img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 65%;
+    height: 100vh;
+}
+
+h1{
+    color: black;
+    position: absolute;
+    top: 0%;
+    right: 5%;
+    font-family:Arial Narrow Bold;
+}
+
+.nn{
+    text-align: right;
+    position: absolute;
+    top: 10%;
+    right: 1%;
+}
